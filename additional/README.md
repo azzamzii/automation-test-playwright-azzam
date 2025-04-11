@@ -26,3 +26,5 @@ Before:
 💡 Note: This test uses a 60-second timeout because initial page loading may take some time.
 
 ### The result after testing in 3 browser:
+
+![image](https://github.com/user-attachments/assets/3fe39089-a4c2-4efa-8dfe-750fc3f4c24b)
