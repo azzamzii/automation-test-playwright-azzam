@@ -21,3 +21,9 @@ npx playwright test
 ## Result
 ![Screenshot 2025-04-11 105241](https://github.com/user-attachments/assets/d7c38394-ac99-4291-97b7-7ae5922d5f5b)
 💡 Note: This test uses a 30-second timeout (default) and makes some cases fail. For improvement, I use 60-second timeout in an `additional/ folder` test
+
+## Pull Request Requirements
+
+- Include the commit message
+- Include the evidence
+
